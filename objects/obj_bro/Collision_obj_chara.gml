@@ -1,0 +1,1 @@
+NewEncounter([global.enemies.bro_G], spr_bg1);
